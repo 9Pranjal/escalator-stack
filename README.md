@@ -15,8 +15,8 @@
 ### Full
 ![full](full.png)
 
-### Exit
-![exit](exit.png)
-
 ### Empty
 ![empty](empty.png)
+
+### Exit
+![exit](exit.png)
